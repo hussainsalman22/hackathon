@@ -1,7 +1,8 @@
 {
-  "homepage": "<https://hussainsalman22.github.io/hackathon>",
-  "name": "hackathon",
+  
+  "name": "admin",
   "version": "0.1.0",
+  "homepage": "https://hussainsalman22.github.io/Admin",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.1.1",
